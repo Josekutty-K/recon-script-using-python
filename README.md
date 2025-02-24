@@ -32,3 +32,16 @@ sudo apt install httpx-toolkit
 
 ✅ Verify Installation:
 httpx-toolkit -h
+
+INSTALLATION OF THE TOOL:
+
+1, Git clone https://github.com/Josekutty-K/recon-script-using-python.git
+
+2, cd recon-script-using-python
+
+3, chmod +x recon-script.py
+
+4, python recon-script.py
+
+THAT'S IT, ENTER YOUR SUBDOMAIN TO ENUMERATE AND THE TOOL WILL TAKE CARE THE REST OF THE HEADACHE...
+
