@@ -1,7 +1,7 @@
 # recon-script-using-python
 I have been learning python for the last couple of days and I created a python script that can automate some basic steps in the recon phase in web app penetration testing...
 
-WHAT WILL THIS SCRIPT DO ???
+\nWHAT WILL THIS SCRIPT DO ???
 The script will get the subdomain which is the target then it will do a nmap port scan with -A flag after the nmap scan the script will ask if web need to brute force directories using http or https protocol after the user mentions the protocol the script will do a directory brute-forcing using dirb, after that the script will crawl urls using katana and save the result in the current location, after that the script will run httpx-toolkit and find the status codes of the URLs gathered using katana and save the result in the current location.....
 
 
