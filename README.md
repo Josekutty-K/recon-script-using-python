@@ -1,5 +1,5 @@
 # recon-script-using-python
-I have been learning for the last couple of days and I created a python script that can automate some basic steps in the recon phase in web app penetration testing...
+I have been learning python for the last couple of days and I created a python script that can automate some basic steps in the recon phase in web app penetration testing...
 
 PLEASE MAKE SURE YOU HAVE THESE TOOLS AVAILABLE AND THEY SHOULD BE ACCESSIBLE FROM THE LOCATION IN WHICH YOU ARE RUNNING THE PYTHON SCRIPT
 Nmap, Dirb, Katana, httpx-toolkit
